@@ -10,5 +10,5 @@ terraform {
   }
 }
 resource "aws_s3_bucket" "example" {
-bucket = "jenkins-test-bucket-sara-davies-10-03"
+bucket = "jenkins-test-bucket-sara-davies-10-03-363636363636"
 }
